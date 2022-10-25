@@ -1,0 +1,9 @@
+npx create-expo-app --template
+
+npm i expo-camera 
+
+
+DEU CERTO!!!
+
+PERMISSAO USO DA camera
+IDENTIFICAÇÃO FACIAL
